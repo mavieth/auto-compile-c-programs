@@ -8,8 +8,10 @@ Install [NPM](https://github.com/npm/npm)
 curl -L https://www.npmjs.com/install.sh | sh
 ```
 
-Install Node Modules with [NPM](https://github.com/npm/npm)
+Clone the repo and install node modules with [NPM](https://github.com/npm/npm)
 ```bash
+git clone https://github.com/mavieth/auto-compile-c-programs.git
+cd auto-compile-c-programs
 npm install
 ```
 
