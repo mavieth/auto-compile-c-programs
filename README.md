@@ -19,6 +19,9 @@ Start [Gulp](https://github.com/gulpjs/gulp)
 ```bash
 gulp
 ```
+That's it! Enjoy your autocompiling.
+
+
 ## The Result
 ![](http://i.imgur.com/OUkLi.gif)
 
