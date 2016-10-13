@@ -1,5 +1,5 @@
 # Auto Compiling C Programs on Save
-Compiling C programs each time that you save a file using NPM task runner Gulp.
+Compiling C programs each time that you save a file using NPM task runner Gulp. Are you tired of switching windows each time you'd like to save and compile your c program? Same.
 
 ## Installation
 
