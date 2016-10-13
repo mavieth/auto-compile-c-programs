@@ -23,5 +23,5 @@ That's it! Enjoy your autocompiling.
 
 
 ## The Result
-![](http://i.imgur.com/OUkLi.gif)
+![](http://i.imgur.com/Rlel1Td.gif)
 
